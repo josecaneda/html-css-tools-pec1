@@ -77,3 +77,5 @@ package.json:
   }
 }
 ```
+
+`npm install popups`
