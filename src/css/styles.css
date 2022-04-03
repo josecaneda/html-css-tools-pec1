@@ -250,8 +250,10 @@ footer {
 }
 
 .img-adjust-2 {
-  width: 400px;
+  width: 100%;
+  height: 20rem;
   object-fit: cover;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
   border: 1px solid black;
 }
 
@@ -278,6 +280,40 @@ blockquote cite {
 
 .box-presentation article {
   margin-bottom: 3rem;
+}
+
+/* Enlaces */
+
+.box-external-links {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2rem;
+}
+
+.box-external-link {
+  
+  
+}
+
+
+
+.box-external-link figure {
+  margin: 0;
+}
+
+.box-external-link iframe {
+  width: 100%;
+  height: 16rem;
+  object-fit: cover;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border: 1px solid black;
+}
+
+
+
+
+iframe {
+  border: none;
 }
 
 @media screen and (max-width: 600px) {
