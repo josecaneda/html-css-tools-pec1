@@ -1,3 +1,4 @@
+import popupS from "popups";
 
 const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('quiz-results');
