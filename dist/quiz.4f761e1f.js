@@ -541,16 +541,29 @@ function buildQuiz() {
 function showResults() {
     const answerContainers = quizContainer.querySelectorAll('.quiz-answers');
     let numCorrect = 0;
-    myQuestions.forEach((currentQuestion, indexQuestion)=>{
+    let isCoveredQuiz;
+    isCoveredQuiz = myQuestions.every((currentQuestion, indexQuestion)=>{
         const answerContainer = answerContainers[indexQuestion];
         const selector = `input[name=question${indexQuestion}]:checked`;
-        const userAnswer = (answerContainer.querySelector(selector) || null).value;
-        if (userAnswer === currentQuestion.correctAnswer) {
-            numCorrect++;
-            answerContainers[indexQuestion].style.color = 'lightgreen';
-        } else answerContainers[indexQuestion].style.color = 'red';
-        _toastMeDefault.default(`${numCorrect} repuestas correctas de ${myQuestions.length} `);
+        try {
+            answerContainer.querySelector(selector).value;
+            return true;
+        } catch (error) {
+            return false;
+        }
     });
+    if (isCoveredQuiz) {
+        myQuestions.forEach((currentQuestion, indexQuestion)=>{
+            const answerContainer = answerContainers[indexQuestion];
+            const selector = `input[name=question${indexQuestion}]:checked`;
+            const userAnswer = answerContainer.querySelector(selector).value;
+            if (userAnswer === currentQuestion.correctAnswer) {
+                numCorrect++;
+                answerContainers[indexQuestion].style.color = 'lightgreen';
+            } else answerContainers[indexQuestion].style.color = 'red';
+        });
+        _toastMeDefault.default(`${numCorrect} repuestas correctas de ${myQuestions.length} `);
+    } else _toastMeDefault.default(`Por favor, no dejes ninguna pregunta en blanco`);
 }
 const myQuestions = [
     {
