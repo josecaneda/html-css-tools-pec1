@@ -212,11 +212,14 @@ footer {
 }
 
 .p-bio-summary {
+  /* display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 10;
+  overflow: hidden; */
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 10;
   overflow: hidden;
-
 }
 
 .box-summary-biographies header {
@@ -347,6 +350,10 @@ button#quiz-submit {
 
 label.quiz-option {
   margin-right: 5rem;
+}
+
+.detail-bio-photo {
+  width: 75%;
 }
 
 @media screen and (max-width: 600px) {
