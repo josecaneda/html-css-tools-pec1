@@ -216,6 +216,7 @@ footer {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 10;
   overflow: hidden;
+
 }
 
 .box-summary-biographies header {
@@ -292,8 +293,7 @@ blockquote cite {
 }
 
 .box-external-link {
-  
-  
+    
 }
 
 
@@ -310,11 +310,43 @@ blockquote cite {
   border: 1px solid black;
 }
 
-
-
-
 iframe {
   border: none;
+}
+
+.question {
+  margin-bottom: 2rem;
+}
+
+button#quiz-submit {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom: 2rem;
+}
+
+.section-quiz {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.header-quiz {
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  
+}
+
+.quiz-answers input {
+  margin-right: .6rem;
+}
+
+label.quiz-option {
+  margin-right: 5rem;
 }
 
 @media screen and (max-width: 600px) {

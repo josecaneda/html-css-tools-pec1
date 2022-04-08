@@ -79,3 +79,8 @@ package.json:
 ```
 
 `npm install popups`
+`npm remove popups`
+`npm install alert`
+npm install --save node-notifier
+
+npm install react-native-snackbar --save

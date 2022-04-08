@@ -1,4 +1,7 @@
-import popupS from "popups";
+
+import toast from 'toast-me';
+
+
 
 const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('quiz-results');
@@ -10,14 +13,14 @@ function buildQuiz() {
         const answers = [];
         for (let option in currentQuestion.answers) {
             answers.push(
-                `<input type="radio" id="question${indexQuestion}" name="question${indexQuestion}" value="${option}">
-                <label for="question${indexQuestion}">${currentQuestion.answers[option]}</label>`
+                `<input  type="radio" id="question${indexQuestion}" name="question${indexQuestion}" value="${option}">
+                <label class="quiz-option" for="question${indexQuestion}">${currentQuestion.answers[option]}</label>`
             );
         }
 
         output.push(
             `<div class="question">
-                <p><strong>${currentQuestion.question}</strong></p>
+                <p><strong>${indexQuestion + 1}. ${currentQuestion.question}</strong></p>
                 <div class="quiz-answers">${answers.join('')}</div>
             </div>`
         );
@@ -28,12 +31,24 @@ function buildQuiz() {
 function showResults() {
     const answerContainers = quizContainer.querySelectorAll('.quiz-answers');
     let numCorrect = 0;
+    myQuestions.forEach( (currentQuestion, indexQuestion) => {
+        const answerContainer = answerContainers[indexQuestion];
+        const selector = `input[name=question${indexQuestion}]:checked`;
+        const userAnswer = (answerContainer.querySelector(selector) || null ).value;
+        if (userAnswer === currentQuestion.correctAnswer) {
+            numCorrect++;
+            answerContainers[indexQuestion].style.color = 'lightgreen';
+        } else {
+            answerContainers[indexQuestion].style.color = 'red'; 
+        }
+
+        toast(`${numCorrect} repuestas correctas de ${myQuestions.length} `);
+
+    });
 
 }
 
 
-
-submitButton.addEventListener('click', showResults);
 
 const myQuestions = [
     {
@@ -104,6 +119,15 @@ const myQuestions = [
 
 window.onload = function() {
     buildQuiz();
-    popupS.alert({content: 'Hello World!'});
-
+    submitButton.addEventListener('click', showResults);
+    
+      
+    
 }
+
+
+
+
+
+
+
