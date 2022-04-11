@@ -13,8 +13,10 @@ function buildQuiz() {
         const answers = [];
         for (let option in currentQuestion.answers) {
             answers.push(
-                `<input  type="radio" id="question${indexQuestion}" name="question${indexQuestion}" value="${option}">
-                <label class="quiz-option" for="question${indexQuestion}">${currentQuestion.answers[option]}</label>`
+                `<div>
+                <input  type="radio" id="question${indexQuestion}" name="question${indexQuestion}" value="${option}">
+                <label class="quiz-option" for="question${indexQuestion}">${currentQuestion.answers[option]}</label>
+                </div>`
             );
         }
 

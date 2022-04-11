@@ -366,7 +366,10 @@ label.quiz-option {
   object-fit: cover;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
   border: 1px solid black;
-  
+}
+
+.center {
+  text-align: center;
 }
 
 @media screen and (max-width: 750px) {
@@ -408,6 +411,13 @@ label.quiz-option {
     grid-template-areas: "bio-photo" 
                           "bio-text";
   }
+
+  .box-presentation, .box-external-links {
+    grid-template-columns: 1fr;
+    grid-gap: 8rem;
+  }
  
+
+  
   
 }
