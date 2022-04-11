@@ -52,7 +52,7 @@ main {
 .box-level-1 {
   max-width: var(--maxwidth);
   margin: 0 auto;
-  padding: 2rem;
+  padding: 0.6rem 2rem;
 }
 
 .title-background {
@@ -97,6 +97,7 @@ nav ul li a:hover {
   color: var(--color-contrast);
 }
 
+
 .title-section > h1 {
   text-align: center;
   margin-bottom: 2rem;
@@ -114,6 +115,7 @@ nav ul li a:hover {
 }
 
 .box-link {
+  width: 16rem; /* */
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
@@ -181,6 +183,7 @@ footer {
 
 .bio-text {
   grid-area: bio-text;
+  line-height: 1.5rem;
 }
 
 .box-summary-biographies {
@@ -193,7 +196,7 @@ footer {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2rem;
-  line-height: 1.5rem;
+  /* line-height: 1.5rem; */
   grid-template-areas: "bio-photo bio-text";
   align-items: center;
 }
@@ -212,10 +215,6 @@ footer {
 }
 
 .p-bio-summary {
-  /* display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 10;
-  overflow: hidden; */
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 10;
@@ -352,9 +351,63 @@ label.quiz-option {
   margin-right: 5rem;
 }
 
-.detail-bio-photo {
-  width: 75%;
+.detail-bio-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding-bottom: 0;
+  padding-top: 0;
 }
 
-@media screen and (max-width: 600px) {
+.detail-bio-photo {
+  width: 60%;
+  height: 26rem;
+  object-fit: cover;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border: 1px solid black;
+  
+}
+
+@media screen and (max-width: 750px) {
+  nav ul {
+    grid-template-columns: 1fr;
+    grid-gap: 0.6rem;
+  }
+
+  nav li {
+    text-align: center;
+  }
+
+  .box-links {  
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+
+  .footer-nav ul {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-nav li {
+
+    text-align: center;
+  }
+
+  .box-icons {
+   
+    text-align: center;
+  }
+
+  .box-summary-biographies {
+    grid-gap: 8rem;
+    
+  }
+
+  .box-summary-biography, .box-summary-biography:nth-child(even) {
+    grid-template-columns: 1fr;
+    grid-template-areas: "bio-photo" 
+                          "bio-text";
+  }
+ 
+  
 }
