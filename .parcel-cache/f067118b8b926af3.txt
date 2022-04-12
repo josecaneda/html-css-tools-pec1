@@ -1,4 +1,4 @@
-7913
+7914
 66/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/index.html1649450797869366100 0
 71/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/twitter.svg1636919679264052700 0
 74/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/symptom-05.jpg1636930203196903600 0
@@ -8,7 +8,7 @@
 77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/s69-31739orig.jpg1646772619571035500 0
 138/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/S-band_antenna_on_lunar_surface_-_taken_during_Apollo_12_mission_-_cropped.jpg1647115586510577900 0
 81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/presentation-icon.jpg1648502759294192500 0
-75/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/pete-conrad.jpg1647902314550778600 0
+75/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/pete-conrad.jpg1649746843434958100 0
 72/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/n-estres.jpg1636909594881539100 0
 80/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/emblem-apollo-17.png1648662771305071900 0
 74/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/COP26_Logo.png1636904522123092800 0
@@ -16,7 +16,7 @@
 82/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/biograghies-apollo.jpg1646729947932199100 0
 78/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/alan-shepard-2.jpg1648588083327733900 0
 75/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/alan-l-bean.jpg1648287475329758900 0
-59/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img1648675959823271700 1
+59/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img1649746748475000600 1
 59/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/css1646689018259876100 1
 72/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/biographies.html1649448911868560500 0
 87/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/biographies/neil-armstrong.html1649672861647960400 0
@@ -1139,6 +1139,8 @@
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/npm-run-all/node_modules/color-name/test.js1647028975873834900 0
 110/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/npm-run-all/node_modules/color-name/README.md1647028974639835000 0
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/npm-run-all/node_modules/color-name/LICENSE1647028975083834900 0
+120/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/stylehacks/types/plugins/htmlCombinatorCommentBody.d.ts1647028987590081300 0
+109/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/npm-run-all/node_modules/color-name/index.js1647028975465834500 0
 111/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/npm-run-all/node_modules/color-name/.npmignore1647028974309834900 0
 115/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/npm-run-all/node_modules/color-name/.eslintrc.json1647028976200835700 0
 100/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/npm-run-all/node_modules/color-name1647028975874835100 1
@@ -2263,7 +2265,7 @@
 73/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/boolbase1647028974230838600 1
 78/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/bn.js/LICENSE1649016765446035400 0
 80/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/bn.js/lib/bn.js1649016766482801500 0
-68/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies1649706337331408900 1
+68/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies1649746925906835000 1
 99/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/lib/public/Symbols.js1647029017218570700 0
 90/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/base64-js/base64js.min.js1649016757959863300 0
 85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/resolve/appveyor.yml1647029015649797000 0
@@ -2395,7 +2397,7 @@
 103/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2021/TestIntegrityLevel.js1647029033662526900 0
 97/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/asn1.js/lib/asn1/encoders/pem.js1649016767089198000 0
 73/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/entities1647028985103749700 1
-86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies/alan-shepard.html1649706337293408400 0
+86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies/alan-shepard.html1649746925596711600 0
 128/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg1647029016942404000 1
 102/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/resolver-default/package.json1647028975807834400 0
 106/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/postcss-discard-comments/types/index.d.ts1647028982641581900 0
@@ -2968,7 +2970,7 @@
 114/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/hash/parcel-hash.linux-arm-gnueabihf.node1647028989277466400 0
 113/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2018/AbstractRelationalComparison.js1647028989244465300 0
 91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/autoprefixer/lib/vendor.js1647029005625937600 0
-86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/emblem-apollo-17.ca18dda8.png1649706336767010700 0
+86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/emblem-apollo-17.ca18dda8.png1649746924913871500 0
 106/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2019/DeletePropertyOrThrow.js1647029023919003300 0
 101/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/elliptic/lib/elliptic/eddsa/index.js1649016766739834000 0
 102/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/cuint/test/UINT64_greaterThan-test.js1647028985395749200 0
@@ -3169,9 +3171,9 @@
 92/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/browserify-aes/modes/cbc.js1649016766593803000 0
 103/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/string.prototype.padend/test/.eslintrc1647028975181834500 0
 107/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/test/fixtures/parcel/index.js1647029009568798500 0
-79/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/index.764adf91.css.map1649706337279409800 0
+79/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/index.764adf91.css.map1649746925558720500 0
 88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/browserify-rsa/index.js1649016765397031900 0
-88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies/neil-armstrong.html1649706337275412300 0
+88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies/neil-armstrong.html1649746925481373400 0
 88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/is-typed-array/index.js1649016755668064300 0
 126/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/workers/test/integration/workerfarm/reverse-handle.js1647028987222770400 0
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/iframe-srcdoc.js1647029027077805700 0
@@ -3193,7 +3195,7 @@
 86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/msgpackr/package.json1647028985526749300 0
 85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/ansi-styles/index.js1647028974229838400 0
 97/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2020/TimeFromYear.js1647029033759522800 0
-67/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/links.html1649706337276406800 0
+67/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/links.html1649746925483531200 0
 97/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/public-encrypt/test/rsa.1024.pub1649016767034200500 0
 105/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/lib/public/PluginOptions.js1647029016022885800 0
 86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/buffer-xor/inplace.js1649016766262626100 0
@@ -3385,7 +3387,7 @@
 116/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/postcss-selector-parser/dist/selectors/attribute.js1647028975211835200 0
 103/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/src/public/Environment.js1647029008661061100 0
 88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/lodash.memoize/index.js1647028975305834600 0
-89/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/apollo-lunar-module.e673ec17.jpg1649706330153759900 0
+89/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/apollo-lunar-module.e673ec17.jpg1649746920166865700 0
 95/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/codeframe/package.json1647029005635937300 0
 100/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2017/QuoteJSONString.js1647029031077966000 0
 106/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/src/requests/AssetRequest.js1647028989638035000 0
@@ -3587,7 +3589,7 @@
 104/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/gyroscope.js1647029026997805700 0
 95/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/object-inspect/util.inspect.js1647028985893748800 0
 106/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/optimizer-image/lib/loadNative.js1647028975068836100 0
-77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/quiz.d1d09bc3.js.map1649706337320407900 0
+77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/quiz.d1d09bc3.js.map1649746925617714800 0
 86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/postcss-normalize-url1647028974744835700 1
 124/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_drop.c1647029004664902000 0
 110/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/bundler-default/lib/DefaultBundler.js1647028975077834300 0
@@ -3638,7 +3640,7 @@
 123/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/runtime-service-worker/src/ServiceWorkerRuntime.js1647028975443833700 0
 92/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/fs/src/OverlayFS.js1647028983656577800 0
 69/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/mime1647028978430578700 1
-77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/twitter.143e480f.svg1649706330595386800 0
+77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/twitter.143e480f.svg1649746920556900300 0
 107/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/hash/parcel-hash.darwin-arm64.node1647028983884560200 0
 81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/.bin/detect-libc1647029036381855600 0
 119/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/readable-stream/lib/internal/streams/stream-browser.js1649016767536750300 0
@@ -3718,9 +3720,8 @@
 93/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2020/IsRegExp.js1647029027946727900 0
 92/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/fs/lib/index.js.map1647028987239778200 0
 145/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false-glob/sub1647029016766404400 1
-84/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies.97eef1a2.js.map1649706337284408800 0
+84/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies.97eef1a2.js.map1649746925557726600 0
 93/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2017/MakeTime.js1647029029618759900 0
-77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/quiz.03b1791e.js.map1649706337320407900 0
 117/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/msgpackr-extract/prebuilds/win32-x64/node.abi72.node1647029013545064500 0
 88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/types/unsafe.js1647028977373579700 0
 93/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/browserify-aes/modes/cfb8.js1649016766689834400 0
@@ -3734,7 +3735,7 @@
 87/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/timsort/src/timsort.js1647028978564582100 0
 88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/shebang-command/license1647028974377836000 0
 100/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/autoprefixer/lib/hacks/pixelated.js1647029004390901700 0
-83/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/emblem-apollo.e6fe9fd6.png1649706336760014500 0
+83/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/emblem-apollo.e6fe9fd6.png1649746924903867300 0
 129/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/test/fixtures/custom-format-infer-type/package.json1647029024794310000 0
 107/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/script-defer.js1647029030953449100 0
 91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/normalize-package-data/lib1647028978712580600 1
@@ -3745,7 +3746,7 @@
 91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/compressor-raw/src1647028975066835000 1
 72/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/asn1.js1649016767185199600 1
 76/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/randombytes1649016765675624800 1
-73/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/quiz.d1d09bc3.js1649706337283413700 0
+73/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/quiz.d1d09bc3.js1649746925559735300 0
 81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/css-what/LICENSE1647028973901555500 0
 89/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/public-encrypt/readme.md1649016766288625700 0
 94/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/abortcontroller-polyfill/dist1647028982857578500 1
@@ -3757,6 +3758,11 @@
 104/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/packager-raw/lib/RawPackager.js1647028974619833500 0
 107/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/postcss-merge-longhand/src/lib/getRules.js1647028982951578800 0
 89/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2015/Call.js1647029008676607800 0
+91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/svgo/plugins/cleanupIDs.js1647028982877578600 0
+121/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/runtime-js/src/helpers/browser/preload-loader.js1647028989277466400 0
+84/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/has-symbols/LICENSE1647028974512834900 0
+104/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/lib/dumpGraphToGraphViz.js1647029007642014900 0
+91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/lib/worker.js1647029024619309800 0
 82/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/test1647029024346331700 1
 98/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/graph/src/ContentGraph.js1647028982806582000 0
 102/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2021/SetFunctionLength.js1647029033453522300 0
@@ -3848,7 +3854,7 @@
 84/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/minimatch/README.md1647028975985834800 0
 103/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2019/AdvanceStringIndex.js1647029004789900900 0
 98/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/utils/src/prettifyTime.js1647029007563013900 0
-79/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/instagram.b1db25d6.svg1649706337086367800 0
+79/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/instagram.b1db25d6.svg1649746925272804300 0
 90/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/svgo/plugins/sortAttrs.js1647029006191495700 0
 86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/codeframe/src1647029005054900400 1
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/pad-start-end.js1647029029607760100 0
@@ -3886,11 +3892,6 @@
 85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/LICENSE1647028985773749300 0
 87/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/which-typed-array/test1649016755644062600 1
 76/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/.bin/semver1647029036464390900 0
-91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/svgo/plugins/cleanupIDs.js1647028982877578600 0
-121/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/runtime-js/src/helpers/browser/preload-loader.js1647028989277466400 0
-84/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/has-symbols/LICENSE1647028974512834900 0
-104/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/lib/dumpGraphToGraphViz.js1647029007642014900 0
-91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/lib/worker.js1647029024619309800 0
 117/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/keyboardevent-charcode.js1647029027733724400 0
 97/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/minimalistic-assert/package.json1649016765581033100 0
 103/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2020/AdvanceStringIndex.js1647029004814901600 0
@@ -3906,11 +3907,11 @@
 103/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/test/PublicBundle.test.js1647029016442727800 0
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/workers/src/process/ProcessChild.js1647028985750749400 0
 80/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/acorn/README.md1647028984369751300 0
-73/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies.html1649706337275412300 0
+73/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies.html1649746925482384100 0
 109/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@babel/highlight/node_modules/chalk/index.js1647028974341835300 0
 100/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/unbox-primitive/.github/FUNDING.yml1647028979376763800 0
 89/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/ordered-binary/README.md1647028978426577900 0
-84/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/neil-armstrong.40fbe7a9.jpg1649706336783010000 0
+84/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/neil-armstrong.40fbe7a9.jpg1649746924927873200 0
 114/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/link-rel-preconnect.js1647029027824722900 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/which-boxed-primitive/README.md1647028978560578900 0
 94/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/call-bind/.github/FUNDING.yml1647028979787764700 0
@@ -3947,8 +3948,8 @@
 83/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/source-map1647029021988724500 1
 110/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/watcher/src/windows/WindowsBackend.hh1647028987724087400 0
 112/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/test/fixtures/context/package.json1647029024757311700 0
-88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biograghies-apollo.de459a9f.jpg1649706330152759600 0
-78/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/saturn-v.d223363e.jpg1649706330144762400 0
+88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biograghies-apollo.de459a9f.jpg1649746920176865000 0
+78/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/saturn-v.d223363e.jpg1649746920157867200 0
 94/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/optimizer-cssnano/src1647028975052834900 1
 89/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/v8-compile-cache/LICENSE1647028973747557700 0
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/package-manager/src/NodeResolver.js1647029004503900700 0
@@ -3964,9 +3965,6 @@
 87/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/postcss/lib/at-rule.js1647028974416835900 0
 81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/autoprefixer/bin1647028973914557300 1
 80/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/hosted-git-info1647028977237579000 1
-120/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/stylehacks/types/plugins/htmlCombinatorCommentBody.d.ts1647028987590081300 0
-109/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/npm-run-all/node_modules/color-name/index.js1647028975465834500 0
-81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/pete-conrad.e2a7bfb6.jpg1649706330156761000 0
 113/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@babel/highlight/node_modules/chalk/package.json1647028973960408700 0
 113/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/test/fixtures/main-mjs/package.json1647029025246182500 0
 101/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/cosmiconfig/dist/ExplorerSync.js.map1647028983520577900 0
@@ -3983,7 +3981,7 @@
 84/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/detect-libc/LICENSE1647028975376838700 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/source-map/src/types.js1647028984398748800 0
 107/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/utils/test/input/config/empty.json1647029009460800700 0
-51/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec11649706329913243200 1
+51/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec11649746919902741900 1
 97/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/test/Parcel.test.js1647029015244747300 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/regions/MC.js1647029027935724400 0
 107/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/lib/requests/ConfigRequest.js1647029006705494800 0
@@ -4023,6 +4021,9 @@
 89/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2018/GetV.js1647029026766805100 0
 104/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/dommatrix.js1647029025326180800 0
 109/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/feature-policy.js1647029025406179700 0
+81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/pete-conrad.1ec0bdd7.jpg1649746920161865100 0
+77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/svgo/LICENSE1647028973761555500 0
+98/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/helpers/isPrefixOf.js1647029027826722900 0
 138/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/transformer-react-refresh-wrap/src/ReactRefreshWrapTransformer.js1647028979599764600 0
 86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/create-hmac/README.md1649016766196625000 0
 97/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2015/IteratorNext.js1647029029427760900 0
@@ -4070,7 +4071,7 @@
 101/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@swc/helpers/src/_super_prop_base.js1647029008556054100 0
 87/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/querystring/History.md1649016759584250800 0
 92/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/domelementtype/package.json1647028974932835600 0
-81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/alan-l-bean.9b51c21f.jpg1649706330147760100 0
+81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/alan-l-bean.9b51c21f.jpg1649746920165865000 0
 90/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/fs/lib/browser.js1647028975458834700 0
 90/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/htmlnano/docs/sidebars.js1647028987622075900 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/bundler-default/LICENSE1647028973933412200 0
@@ -4196,7 +4197,7 @@
 90/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/packager-html/lib1647028974279833800 1
 106/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@swc/helpers/src/_wrap_async_generator.js1647029008925125100 0
 109/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/source-map/parcel_sourcemap_node/src1647029017222567400 1
-85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies/pete-conrad.html1649706337277412600 0
+85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies/pete-conrad.html1649746925552728200 0
 117/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_enc.c1647029008514533200 0
 82/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/events/History.md1649016753011933700 0
 102/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@swc/helpers/src/_set_prototype_of.js1647029008295530800 0
@@ -4228,7 +4229,7 @@
 123/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/package-manager/test/fixtures/has-foo/package.json1647029005880496100 0
 139/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/main.js1647029013952063700 0
 99/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/test/fixtures/context1647029024743308700 1
-80/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/links-icon.26bdc9ba.jpg1649706330156761000 0
+80/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/links-icon.26bdc9ba.jpg1649746920169863900 0
 105/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/transformer-js/lib/loadNative.js1647028979376763800 0
 105/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/string.prototype.trimstart/.editorconfig1647028973758561100 0
 117/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/runtime-js/src/helpers/worker/wasm-loader.js1647028989548035300 0
@@ -4269,7 +4270,7 @@
 94/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2016/ToInteger.js1647029034354329300 0
 118/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/transformer-js/parcel-swc.linux-x64-musl.node1647029035954082700 0
 114/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/postcss-selector-parser/dist/selectors/comment.js1647028977527585600 0
-56/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist1649706337412408500 1
+56/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist1649746925629711200 1
 109/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/terser/node_modules/source-map/source-map.js1647028978060578000 0
 57/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/links1646689911066601300 0
 104/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/runtime-browser-hmr/lib/loaders1647028975829834700 1
@@ -4381,7 +4382,7 @@
 109/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@swc/helpers/src/_class_private_field_set.js1647029005071422300 0
 77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/lmdb/read.js1647029021981719800 0
 97/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/resolver-default/LICENSE1647028973919559000 0
-73/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/quiz.03b1791e.js1649706337283413700 0
+73/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/quiz.03b1791e.js1649746925560718000 0
 88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/csso/lib/clean/utils.js1647029005027901300 0
 83/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/cuint/package.json1647028973904555700 0
 107/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2018/OrdinarySetPrototypeOf.js1647029031015448600 0
@@ -4411,7 +4412,7 @@
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/regions/HT.js1647029027033805200 0
 75/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/terser/lib1647029009577798000 1
 105/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2019/IsAccessorDescriptor.js1647029027067805200 0
-77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/bg-home.2e703acc.jpg1649706330144762400 0
+77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/bg-home.2e703acc.jpg1649746920158864000 0
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2021/CreateListFromArrayLike.js1647029016422728200 0
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/localecompare.js1647029027847722300 0
 118/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/transformer-postcss/lib/PostCSSTransformer.js1647028978531584200 0
@@ -4444,7 +4445,7 @@
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/watcher/src/linux/InotifyBackend.cc1647028982803583600 0
 94/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/csso/lib/replace/Dimension.js1647029003981902900 0
 99/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/cuint/test/UINT64_subtract-test.js1647028989118468200 0
-74/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/presentation.html1649706337275412300 0
+74/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/presentation.html1649746925482384100 0
 90/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/path-browserify/README.md1649016156975775100 0
 101/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@swc/helpers/src/_to_property_key.js1647029008711607100 0
 119/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/test/fixtures/targets-default-distdir-two1647029025302181300 1
@@ -4458,6 +4459,9 @@
 93/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2015/ToObject.js1647029034464843900 0
 88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/postcss-import/index.js1647028974057410000 0
 107/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/node-resolver-core/src/builtins.js1647028988168537000 0
+88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/quiz.03b1791e.js.map.22757481591649746925560718000 0
+98/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/transformer-image/LICENSE1647028973918560000 0
+86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/.eslintrc1647028974537835000 0
 143/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main/package.json1647029022035723100 0
 78/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/color-convert1647028977303578800 1
 109/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/workers/src/threads/ThreadsWorker.js1647028988138539500 0
@@ -4917,7 +4921,7 @@
 107/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2016/FromPropertyDescriptor.js1647029024909307900 0
 100/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@babel/highlight/node_modules/chalk1647028976225839800 1
 103/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2019/CopyDataProperties.js1647029014852537400 0
-77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/youtube.b75c3407.svg1649706330594386900 0
+77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/youtube.b75c3407.svg1649746920558896400 0
 93/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2021/BinaryOr.js1647029007385014700 0
 91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/graceful-fs/graceful-fs.js1647028974522835200 0
 94/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/source-map/lib/source-node.js1647028982935579200 0
@@ -5124,7 +5128,7 @@
 121/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest.c1647029008666053600 0
 100/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/source-map/src/SourceMap.js1647028983545578900 0
 113/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@swc/helpers/src/_is_native_reflect_construct.js1647029007446014900 0
-91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/apollo-command-module.e0032249.jpg1649706336756016900 0
+91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/apollo-command-module.e0032249.jpg1649746924900873500 0
 92/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2017/ToInt16.js1647029034141329500 0
 98/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/plugin/src/PluginAPI.d.ts1647028976178840200 0
 95/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/source-map/src/wasm.js1647028985649749800 0
@@ -5158,7 +5162,7 @@
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/regions/MW.js1647029029473761700 0
 97/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/transformer-html/LICENSE1647028973919559000 0
 81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/svgo/lib/xast.js1647029009417801200 0
-66/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/quiz.html1649706337275412300 0
+66/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/quiz.html1649746925483531200 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2021/DayFromYear.js1647029021979719200 0
 105/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/autoprefixer/lib/hacks/inline-logical.js1647028989513036500 0
 106/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/namer-default/lib/DefaultNamer.js1647028974622837600 0
@@ -5380,7 +5384,7 @@
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/regions/GR.js1647029026975804000 0
 71/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/colord1647028988554815100 1
 87/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/safe-buffer/index.d.ts1647028976258836500 0
-80/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies.97eef1a2.js1649706337279409800 0
+80/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies.97eef1a2.js1649746925553727200 0
 102/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2019/SetIntegrityLevel.js1647029033478521300 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/regions/GW.js1647029026985805600 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/regions/HN.js1647029027028806200 0
@@ -5390,7 +5394,7 @@
 77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/mime/lite.js1647028974852835700 0
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/diffie-hellman/node_modules/bn.js/lib/bn.js1649016766565800800 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/regions/IT.js1647029027620727500 0
-67/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/index.html1649706337275412300 0
+67/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/index.html1649746925481373400 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/regions/JM.js1647029027627726400 0
 88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/node-gyp-build/index.js1647028974823833500 0
 81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/globals/index.js1647028974178410500 0
@@ -5598,6 +5602,7 @@
 104/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/web-share.js1647029033386025900 0
 101/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/dist/unpacker/region.js1647029030656449600 0
 85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/LICENSE1647028974227835000 0
+77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/pete-conrad-2.jpg1649746748587003800 0
 87/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/README.md1647029033527524400 0
 91/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/asn1.js/lib/asn1/constants1649016766597799700 1
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/has-symbols/.github/FUNDING.yml1647028982828579000 0
@@ -6279,7 +6284,7 @@
 101/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/cuint/test/UINT64_shiftRight-test.js1647028989028465600 0
 113/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/insertadjacenthtml.js1647029027559724400 0
 97/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2021/WeakRefDeref.js1647029034700843100 0
-81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/buzz-aldrin.63ff80d0.jpg1649706330164763100 0
+81/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/buzz-aldrin.63ff80d0.jpg1649746920177864400 0
 99/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/cuint/test/UINT64_toNumber-test.js1647028989257465700 0
 102/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/5/IsAccessorDescriptor.js1647029027079804300 0
 94/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/cuint/test/UINT64_xor-test.js1647028989494044400 0
@@ -6378,7 +6383,7 @@
 120/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/dom-serializer/node_modules/entities/lib/index.d.ts.map1647028982864578600 0
 114/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/dom-serializer/node_modules/entities/lib/index.js1647028976222840900 0
 108/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/stylehacks/src/plugins/leadingUnderscore.js1647028982991584900 0
-75/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/index.764adf91.css1649706337276406800 0
+75/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/index.764adf91.css1649746925483531200 0
 73/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/domutils1647028983517578800 1
 122/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/dom-serializer/node_modules/entities/lib/maps/decode.json1647028978076578700 0
 76/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/src/img/bg-hero-home.jpg1636912203094030000 0
@@ -6387,7 +6392,7 @@
 119/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/dom-serializer/node_modules/entities/lib/maps/xml.json1647028979905765200 0
 102/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/core/test/BundleGraph.test.js1647029005585936900 0
 109/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/dom-serializer/node_modules/entities/LICENSE1647028973958409900 0
-85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies/buzz-aldrin.html1649706337279409800 0
+85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies/buzz-aldrin.html1649746925573714400 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/regions/ES.js1647029025371179300 0
 114/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/dom-serializer/node_modules/entities/package.json1647028979631764800 0
 99/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2015/HasOwnProperty.js1647029026801805600 0
@@ -6497,7 +6502,7 @@
 103/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/features/fontface.js1647029026824808200 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/elliptic/node_modules/bn.js/lib1649016766061625000 1
 102/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/elliptic/node_modules/bn.js/lib/bn.js1649016766523800500 0
-84/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/alan-shepard-2.890eb4f7.jpg1649706330152759600 0
+84/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/alan-shepard-2.890eb4f7.jpg1649746920163870200 0
 95/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2015/SplitMatch.js1647029033511522200 0
 85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/htmlnano/lib/modules1647028987689080800 1
 80/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/browserify-sign1649016766344625600 1
@@ -6554,8 +6559,6 @@
 76/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract1647029034725079100 1
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/postcss-normalize-url/README.md1647028975221835600 0
 90/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/.editorconfig1647028973882556600 0
-98/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/@parcel/transformer-image/LICENSE1647028973918560000 0
-86/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/.eslintrc1647028974537835000 0
 83/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/.nycrc1647028975723835000 0
 111/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2015/AbstractEqualityComparison.js1647028988102847300 0
 87/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/minimatch/package.json1647028975291835300 0
@@ -6742,7 +6745,7 @@
 88/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/buffer-xor/package.json1649016765513036300 0
 104/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2016/OrdinaryHasProperty.js1647029030961449000 0
 103/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/string.prototype.trimend/test/tests.js1647028979391764300 0
-85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies/alan-l-bean.html1649706337285408000 0
+85/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/dist/biographies/alan-l-bean.html1649746925583719800 0
 100/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2016/QuoteJSONString.js1647029031078965100 0
 95/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2016/RegExpExec.js1647029031134005300 0
 96/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/caniuse-lite/data/regions/JE.js1647029027623722800 0
@@ -7563,8 +7566,6 @@
 71/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/stable1647028974687835100 1
 99/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/helpers/isCodePoint.js1647029027310805900 0
 93/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/helpers/isNaN.js1647029027819728000 0
-77/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/svgo/LICENSE1647028973761555500 0
-98/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/helpers/isPrefixOf.js1647029027826722900 0
 111/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/2016/AbstractEqualityComparison.js1647028988141539500 0
 107/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/helpers/isTrailingSurrogate.js1647029028196350000 0
 102/mnt/c/Users/J/Documents/GitHub/html-css-tools-pec1/node_modules/es-abstract/helpers/maxSafeInteger.js1647029029639762800 0
