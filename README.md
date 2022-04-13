@@ -1,4 +1,4 @@
 # PEC1. Herramientas HTML y CSS
 
-**José Caneda Villanueva**  
+**José Caneda**  
 **jcaneda@uoc.edu**
